@@ -13,6 +13,7 @@
 - 高等数学 B1 2020 上学期期中个人解答 by 佚名
 - 高等数学 B1 2023 上学期期中个人解答 by [数竞之捷](https://mp.weixin.qq.com/s/qVzlyIhIViyJZ5dCygX-Bg)，由 Arthals 校对
 - 高等数学 B1 2023 上学期期末个人解答 by Lg_Cat
+- 高等数学 B2 2023 下学期期中个人解答 by ccfrog
 - 高等数学 B1 2024 上学期期末个人解答 by ccfrog
 - 高等数学 B2 2024 下学期期中个人解答 by 不太开心的咖啵猫
 
