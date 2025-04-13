@@ -8,7 +8,7 @@
 
 **由于作者本人已经不再需要修读高等数学 B，所以本仓库的更新仰仗于各位后来者的帮助，恳请大家积极分享，共同进步。**
 
-试卷基于 Typora 编写，主题为 [`latex-misans.css`](./latex-misans.css)，需要自行下载 [MiSans](https://hyperos.mi.com/font/zh/) 字体。
+试卷基于 Markdown 编写，由 Typora 渲染，主题为 [`latex-misans.css`](./latex-misans.css)，需要自行下载 [MiSans](https://hyperos.mi.com/font/zh/) 字体。后来者如果想要贡献试卷本体，请同样使用此主题渲染。对于解答则没有要求，能是矢量版最好，不是也没关系~
 
 ### Credit
 
