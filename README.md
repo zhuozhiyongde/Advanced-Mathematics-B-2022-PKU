@@ -8,6 +8,8 @@
 
 **由于作者本人已经不再需要修读高等数学 B，所以本仓库的更新仰仗于各位后来者的帮助，恳请大家积极分享，共同进步。**
 
+试卷基于 Typora 编写，主题为 [`latex-misans.css`](./latex-misans.css)，需要自行下载 [MiSans](https://hyperos.mi.com/font/zh/) 字体。
+
 ### Credit
 
 - 高等数学 B1 2020 上学期期中个人解答 by 佚名
