@@ -18,6 +18,7 @@
 - 高等数学 B2 2023 下学期期中个人解答 by ccfrog
 - 高等数学 B1 2024 上学期期末个人解答 by ccfrog
 - 高等数学 B2 2024 下学期期中个人解答 by 不太开心的咖啵猫
+- 高等数学B2 2025 下学期期中、期末个人解答 by ccfrog
 
 个人解答和官方解答都可能有误，但个人解答为我在自己能力范围内给出的尽可能完美的解答，二者差异的部分详见后文附录或各个子文件夹的 README。
 
@@ -50,7 +51,10 @@
 -   xyt 助教讲义答案：#6694252 by Chase_wonder
 -   高数 B 上学期期中答疑洞：#4255209
 -   高数 B 下学期期末答疑洞：#5156521
--   个人微信：zhuozhiyongde
+-   [（ccfrog个人）高数小班课讲义（含答案）与真题解答](https://github.com/CuiChang2022/AdvancedMathsB_at_PKU/tree/main)
+-   维护者联系方式
+    - 开创zhuozhiyongde：微信zhuozhiyongde
+    - 维护ccfrog：微信CuiChang2022_pku，邮箱CuiChang2022@stu.pku.edu.cn
 
 ## 结语
 
