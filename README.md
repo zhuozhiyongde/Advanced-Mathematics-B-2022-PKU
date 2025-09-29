@@ -49,12 +49,13 @@
 
 -   [xyt 助教的讲义网页](https://darkoxie.github.io/)
 -   xyt 助教讲义答案：#6694252 by Chase_wonder
+    -   [北大网盘 / xyt 助教讲义答案](https://disk.pku.edu.cn/link/AA7F2DED282190413AADFAE708D51875C6)，提取码：iJSo
 -   高数 B 上学期期中答疑洞：#4255209
 -   高数 B 下学期期末答疑洞：#5156521
 -   [（ccfrog 个人）高数小班课讲义（含答案）与真题解答](https://github.com/CuiChang2022/AdvancedMathsB_at_PKU/tree/main)
 -   维护者联系方式
-    -   开创 zhuozhiyongde：微信 zhuozhiyongde
-    -   维护 ccfrog：微信 CuiChang2022_pku，邮箱 CuiChang2022@stu.pku.edu.cn
+    -   开创 Arthals：微信 zhuozhiyongde，邮箱 <a href="mailto:zhuozhiyongde@126.com">zhuozhiyongde@126.com</a>
+    -   维护 ccfrog：微信 CuiChang2022_pku，邮箱 <a href="mailto:CuiChang2022@stu.pku.edu.cn">CuiChang2022@stu.pku.edu.cn</a>
 
 ## 💭 结语
 
@@ -116,3 +117,9 @@ From xyt 助教：
 个人觉得这套题难度和计算量上远大于前两套题目，我用了整整三个小时才完整写完了 9 道题中的 8 道...写着写着都对自己产生怀疑了，写到最后才发现似乎不是统考卷，心下稍安。
 
 不过这套卷子给我的感觉就是很繁琐，不太像是两个小时内能写完的，各种收敛对参数的分类讨论，甚至还借用了微分方程？第八题更是闻所未闻，翻遍了谢惠民、谢彦桐、数分考研习题册都没见到类似的，突出一个离谱。
+
+<div align="right">
+
+![Signature](./README.assets/signature.svg)
+
+</div>
